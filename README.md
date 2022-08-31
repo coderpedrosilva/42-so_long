@@ -10,4 +10,4 @@ entre outras coisas.
 
 ![](img_readme/rick_world.jpg)
 
-Com o tightVNC instalado execute `make bonus` para iniciar o projeto, na sequência  `./so_long_bonus ./maps/rick_world` para dar start no game.
+Com o tightVNC instalado execute `make bonus` para iniciar o projeto, na sequência  `./so_long_bonus ./maps/rick_world.ber` para dar start no game.
