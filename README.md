@@ -10,4 +10,4 @@ entre outras coisas.
 
 ![](img_readme/rick_world.jpg)
 
-Logado ao ambiente da 42, com o tightVNC instalado, execute `make bonus` para iniciar o projeto, na sequência  `./so_long_bonus ./maps/rick_world.ber` para dar start no game. Baseado no desenho animado Rick and Morty, o personagem principal a ser controlado é o garoto Morty. Pegue os coletáveis (ovos vermelhos) na tela, após realizar tal ação o portal roxo se tornará verde sendo assim a saída rumo a vitória. Cuidado com os Ricks robóticos andando pela tela, ao ser tocado por algum deles o jogo acaba! 
+Logado ao workspace da 42, com o tightVNC instalado, execute `make bonus` para iniciar o projeto, na sequência  `./so_long_bonus ./maps/rick_world.ber` para dar start no game. Baseado no desenho animado Rick and Morty, o personagem principal a ser controlado é o garoto Morty. Pegue os coletáveis (ovos vermelhos) na tela, após realizar tal ação o portal roxo se tornará verde sendo assim a saída rumo a vitória. Cuidado com os Ricks robóticos andando pela tela, ao ser tocado por algum deles o jogo acaba! 
